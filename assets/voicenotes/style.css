@@ -1,0 +1,111 @@
+.main-app{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+p {
+    color: rgb(17, 4, 75);
+}
+
+button:focus {
+    outline: 0;
+}
+
+.container {
+    max-width: 710px;
+    margin: 0 auto;
+    padding: 20px 50px;
+    text-align: center;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+}
+
+.page-description {
+    font-size: 1.1rem;
+    margin: 0 auto;
+}
+
+.tz-link {
+    font-size: 1em;
+    color: #1da7da;
+    text-decoration: none;
+}
+
+.no-browser-support {
+    display: none;
+    font-size: 1.2rem;
+    color: #e64427;
+    margin-top: 35px;
+}
+
+.container {
+    margin: 40px auto;
+}
+
+#note-textarea {
+    margin: 20px 0;
+    background-color: rgb(223, 226, 228);
+
+}
+
+#recording-instructions {
+    margin: 15px auto 60px;
+}
+
+#notes {
+    padding-top: 20px;
+}
+
+.note{
+    margin: 10px;
+    padding: 10px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-top: 3px solid #4070F4;
+    border-bottom: 3px solid #4070F4;
+    border-right: 3px solid #4070F4;
+    border-left: 3px solid #4070F4;
+
+    border-radius: 10px 10px;
+}
+
+.note .header {
+    font-size: 0.9em;
+    color: rgb(40, 91, 119);
+    margin-bottom: 10px;
+}
+
+.note .delete-note,
+.note .listen-note {
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+.note .content {
+    margin-bottom: 40px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 50px 25px;
+    }
+
+    button {
+        margin-bottom: 10px;
+    }
+
+}   
+
+
+
+/* -- Demo ads -- */
+
+@media (max-width: 1200px) {
+    #bsaHolder{ display:none;}
+}

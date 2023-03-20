@@ -1,0 +1,275 @@
+
+            <!-- <div class="bg row mb-2 col-md-6" data-bg="video" data-bg-desktop="/assets/img/hm-bg.jpg" data-bg-tablet="/assets/img/hm-bg.jpg" data-bg-mobile="/assets/img/hm-bg.jpg" data-video="/assets/img/fly-through-clouds-V003.mp4" data-poster="/assets/img/hm-bg.jpg" data-vdtype="video/mp4" data-playonhoverloop="true" data-playonhoveronce="false" data-loopedautoplay="false" data-autoplayonce="false" data-layer-switch="false" style="background: url(&quot;/assets/img/hm-bg.jpg&quot;) center center / cover repeat;">
+                    <span style="display: none;"></span>
+                <video muted="" controls="false" preload="" poster="/assets/img/hm-bg.jpg" src="/assets/img/fly-through-clouds-V003.mp4#t=0.1" loop="" id="playonhoverloop"></video></div> -->
+
+
+            <!-- <div class="work__container bd-grid">
+                
+                <div class="work__img">
+                    <a href="http://bit.ly/webcovi"><img src="assets/img/covid.jfif" alt=""></a>
+
+                    <h3 class="skills__names center">
+                        class="second-txt"
+                        Covid-19 Spread Analysis Website
+                    </h3>
+
+                </div>
+
+            </div> -->
+
+                <!-- <div class="container">
+
+            <section class="z-depth-1" style="background-color:#4070f4c8">
+
+
+                <div class="row no-gutters">
+
+                    <div class="col-lg-6.25 order-md-2 d-flex">
+                        <div class="view">
+
+                        </div>
+                        <iframe width="400" height="300"
+                            src="https://www.youtube.com/embed/watch?v=EEyHEG3-nm4&list=PLVcEZG2JPVhdSp4MGVTmLVCHlXfCpb0DW&index=2">
+                        </iframe>
+                    </div>
+
+                    <div class="col-lg-6 mx-auto d-flex align-items-center text-white">
+                        <div class="px-4 py-4 py-lg-0">
+
+                            <h3 class="font-weight-normal mb-4">WomenWhoCode Data Science Speaker and Leader</h3>
+                            <a href="https://youtu.be/u74VQSMsuGU?t=5690" style="color:rgb(255, 255, 255)">
+                                <p class="mb-0"> • I showed up how to implement K-Means algorithm on real world datasets
+                                    in Python.</p>
+                            </a>
+                            <a href="https://youtu.be/-5dcFhAwFy8?t=79" style="color:white">
+                                <p> • Also helped in Live QnA session during series of Data Science Webinar organised by
+                                    Women Who Code.</p>
+                            </a>
+
+
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+            </section>
+
+        </div> -->
+
+
+                <!-- <section class="skills container">
+
+            <div class="content-section-heading text-center">
+                <h2 class="section-title" stle>Achievements</h2>
+            </div>
+
+            <div class="skills__container px-4 px-lg-5">
+
+                <div class="row gx-0 ">
+
+                    <div class="skills__img col-lg-6 " style="border-style: outset">
+                        <center><a href="assets/img/Achievements/Aryan Gulati_1653486192332-1.png"><img
+                                    src="assets/img/Achievements/tcscodevita.jpg" alt=""></a></center>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <br>
+                        <a href="assets/img/Achievements/Aryan Gulati_1653486192332-1.png">
+                            <h5 class="skills__subtitle">TCS Code Vita</h5>
+                        </a>
+                        <p class="skills__subtitle">
+                            I have secured a global rank 4789 in TCS CodeVita Season 10 and for showcasing exceptional
+                            coding skills.
+                        </p>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <br>
+                        <a href="assets/img/Achievements/7f38785e-c3ed-4b94-bbcd-e496a4765ffd.png">
+                            <h5 class="skills__subtitle">Jury Award in Hackathon (Devcation)</h5>
+                        </a>
+                        <p class="skills__subtitle">
+                            I have secured the Jury Award for my unique Idea that I portrayed in Ideate and solve
+                            Organized by Google Developer student clubs.
+                        </p>
+                    </div>
+                    <div class="skills__img col-lg-6" style="border-style: outset">
+                        <center><a href="assets/img/Achievements/7f38785e-c3ed-4b94-bbcd-e496a4765ffd.png"><img
+                                    src="assets/img/Achievements/gdsc.png" alt=""></a></center>
+                    </div>
+
+                    <div class="skills__img col-lg-6" style="border-style: outset">
+                        <a href="assets/img/Achievements/00000000008cb4d4-1.png"><img
+                                src="assets/img/Achievements/hashcode_google.jpg" alt=""></a>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <br>
+                        <a href="assets/img/Achievements/00000000008cb4d4-1.png">
+                            <h5 class="skills__subtitle"> Goggle Hash Code</h5>
+                        </a>
+                        <p class="skills__subtitle">I have qualified Google Hash Code Qualification Round</p>
+
+                    </div>
+
+                    <div class="col-lg-6">
+                        <br>
+                        <a href="assets/img/Achievements/00000000001857b30-1.png">
+                            <h5 class="skills__subtitle">Google Code Jam</h5>
+                        </a>
+                        <p class="skills__subtitle">I have qualified Google Code Jam Round 1A 2020 Qualification Round
+                        </p>
+                    </div>
+                    <div class="skills__img col-lg-6" style="border-style: outset">
+                        <a href="assets/img/Achievements/00000000001857b30-1.png"><img
+                                src="assets/img/Achievements/Google_Code_Jam.jpg" alt=""></a>
+                    </div>
+
+                </div>
+
+            </div>
+        </section> -->
+
+
+
+        <!-- <section class="about section" >
+
+            <h2 class="section-title" id="achieve">ACHIEVEMENTS</h2>
+
+            <div class="card bd-grid" id="accordion" style="outline-style: inset; outline: thick ridge #4070f4c8;">
+                
+                <div class="card-header" id="headingOne">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                      Jury Award in Hackathon (Devcation) 
+                    </button>
+                  </h5>
+                </div>
+            
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+                  <div class="card-body">
+                      <div>
+                          <center><a class="button" href="#popup1">View Certificate</a></center>
+                      </div>
+                      
+                      <div id="popup1" class="overlay">
+                          <div class="popup">
+                              <h5>Jury Award in Hackathon (Devcation)</h5> by Google Developer student clubs
+                              <a class="close" href="#accordion">&times;</a>
+                              <div class="content">
+                                 <br>
+                                  <img
+                              src="assets/img/Achievements/7f38785e-c3ed-4b94-bbcd-e496a4765ffd.png"
+                              class="d-block w-100"
+                              alt="Sunset Over the City"
+                                       height="300" width="400"
+                            />
+                              </div>
+                          </div>
+                      </div>
+                      I have secured the Jury Award for my unique Idea that I portrayed in Ideate and solve Organized by Google Developer student clubs.                  </div>
+                </div>
+                
+                <div class="card-header" id="headingTwo">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+                        Google Code Jam
+                      </button>
+                    </h5>
+                  </div>
+              
+                  <div id="collapseTwo" class="collapse show" aria-labelledby="headingTwo" data-parent="#accordion">
+                    <div class="card-body">
+                        <div>
+                            <center><a class="button" href="#popup2">View Certificate</a></center>
+                        </div>
+                        
+                        <div id="popup2" class="overlay">
+                            <div class="popup">
+                                <h2>Google Code Jam (Round 1A 2020 Qualification Round) Qualified</h2> by Google
+                                <a class="close" href="#accordion">&times;</a>
+                                <div class="content">
+                                    <br>
+                                    <img
+                                src="assets/img/Achievements/00000000001857b30-1.png"
+                                class="d-block w-100"
+                                alt="Sunset Over the City"
+                                         height="300" width="400"
+                              />
+                                </div>
+                            </div>
+                        </div>
+                        Google Code Jam is an international programming competition hosted and administered by Google. The competition consists of a set of algorithmic problems which must be solved in a fixed amount of time.                   </div>
+                  </div>
+                  
+                  <div class="card-header" id="headingThree">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+                        Collapsible Group Item #1
+                      </button>
+                    </h5>
+                  </div>
+              
+                  <div id="collapseThree" class="collapse show" aria-labelledby="headingThree" data-parent="#accordion">
+                    <div class="card-body">
+                        <div>
+                            <a class="button" href="#popup3">Let me Pop up</a>
+                        </div>
+                        
+                        <div id="popup3" class="overlay">
+                            <div class="popup">
+                                <h2>Here i am</h2>
+                                <a class="close" href="#accordion">&times;</a>
+                                <div class="content">
+                                    Thank to pop me out of that button, but now i'm done so you can close this window.
+                                    <img
+                                src="http://ak.picdn.net/assets/cms/2d850dac5bcfcb86514922660d6e357aa44fd06e-crop-shutterstock_310408637.jpg"
+                                class="d-block w-100"
+                                alt="Sunset Over the City"
+                                         height="300" width="400"
+                              />
+                                </div>
+                            </div>
+                        </div>
+                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                    </div>
+                </div>
+
+                <div class="card-header" id="headingFour">
+                    <h5 class="mb-0">
+                      <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+                        Collapsible Group Item #1
+                      </button>
+                    </h5>
+                </div>
+              
+                <div id="collapseFour" class="collapse show" aria-labelledby="headingFour" data-parent="#accordion">
+                    <div class="card-body">
+                        <div>
+                            <a class="button" href="#popup4">Let me Pop up</a>
+                        </div>
+                        
+                        <div id="popup4" class="overlay">
+                            <div class="popup">
+                                <h2>Here i am</h2>
+                                <a class="close" href="#accordion">&times;</a>
+                                <div class="content">
+                                    Thank to pop me out of that button, but now i'm done so you can close this window.
+                                    <img
+                                src="assets/img/Achievements/Aryan Gulati_1653486192332-1.png"
+                                class="d-block w-100"
+                                alt="Sunset Over the City"
+                                         height="300" width="400"
+                              />
+                                </div>
+                            </div>
+                        </div>
+                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+                    </div>
+                </div>
+                  
+              </div>
+        </section> -->
