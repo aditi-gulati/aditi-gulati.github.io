@@ -30,6 +30,7 @@
 
 
 
+
 /*===== Margenes =====*/
 :root{
   --mb-1: 0.5rem;
@@ -695,6 +696,42 @@ img{
     top:-11;
     width: 400px;
     justify-self: center;
+  }
+  
+}
+
+@media screen and (max-width: 768px){
+  .bd-grid{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .home__img{
+    position: static;
+    right: 0;
+    bottom:0;
+    width: 205px;
+  }
+  .home__social{
+    position: static;
+    display:inline-flexbox;
+    flex-direction: row-reverse;
+    padding-top: 0;
+    padding-bottom: 2.5rem;
+    justify-content: space-evenly;
+    margin-bottom: var(--mb-2);
+
+
+  }
+  .home__social-icon{
+    width: max-content;
+    margin-bottom: var(--mb-2);
+    font-size: 1.5rem;
+    color: var(--second-color);
+  }
+  .work__container{
+    row-gap: 2rem;
+    justify-items: center;
+
   }
   
 }
